@@ -1,4 +1,4 @@
-# Tresure Hunters's  
+# Social-Pizza 
 
 A Social Media Application that allows users to Post their favorite Pizza. The application allows users to comment on Posts to create a Social media aspect to the app.
 
